@@ -1,4 +1,3 @@
-Link to the GitHub page for this repo:
 # [What drives the price of a car?](https://nikhilkr31.github.io/used-cars-price-prediction/)
 ## Overview
 In this notebook, we will be exploring the [Used Car dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) from Kaggle. This dataset contains around 427k transaction records from Craigslist.
